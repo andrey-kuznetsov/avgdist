@@ -1,0 +1,2 @@
+VendorID,tpep_pickup_datetime,tpep_dropoff_datetime,passenger_count,trip_distance
+1,2020-01-03 12:00:00,2020-01-03 12:45:00,1,15.0
